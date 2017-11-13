@@ -1,0 +1,7 @@
+This produces a stranger things style light wall by running a ws2811 strand back and forth
+
+Install:
+1) Put index.php somewhere on the Internet where the Arduino can reach.
+2) Update SSID and password in Arduino sketch.
+3) Upload to Arduino.
+4) Connect to light strand.
